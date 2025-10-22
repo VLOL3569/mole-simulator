@@ -6,6 +6,10 @@ A Java-based educational chemistry game where players identify chemical elements
 
 The Mole Simulator is an interactive educational game that helps players learn chemical elements. Players are presented with element symbols and must correctly identify the corresponding element names to earn points. 
 
+
+Gameplay:
+https://www.youtube.com/watch?v=vDiyhgLOjI8&feature=youtu.be
+
 ## System Requirements
 
 - **Java**: Java 8 or higher (tested with Java 22)
